@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=C-joey)](https://github.com/C-Joey/C-Joey/edit/main/README.md)
 
-
+https://green-wall.vercel.app/share/C-Joey?size=l&theme=GitHubDark&displayName=1
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-joey&layout=compact)](https://github.com/C-Joey/C-Joey/edit/main/README.md)
